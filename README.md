@@ -1,2 +1,2 @@
 # Self-Oriented-Project
-Some Random Data Analysis Projects During 
+Some Fianancial Related Data Analysis Projects  
