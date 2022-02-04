@@ -1,2 +1,3 @@
 # Self-Oriented-Project
-Some Fianancial Related Data Analysis Projects  
+## Quant Investment Project at USC
+## Fraud Project at USC
